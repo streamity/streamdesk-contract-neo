@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NeoContractStreamity", "NeoContractStreamity\NeoContractStreamity.csproj", "{BF6EAF59-680F-476C-A38E-FE547615D80E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF6EAF59-680F-476C-A38E-FE547615D80E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6EAF59-680F-476C-A38E-FE547615D80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6EAF59-680F-476C-A38E-FE547615D80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6EAF59-680F-476C-A38E-FE547615D80E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC85C741-ECC5-4D2A-ADC6-1850EB36DEC6}
+	EndGlobalSection
+EndGlobal
